@@ -7,7 +7,8 @@ using namespace std;
 int countVowels(string str);
 
 int main() {
-
+	
+	return 0;
 }
 
 int countVowels(string str) {
